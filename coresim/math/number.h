@@ -5,9 +5,9 @@
 #ifndef CORESIM_MATH_NUMBER_H
 #define CORESIM_MATH_NUMBER_H
 
-#include <stdlib.h>
 #include <stdint.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 typedef int8_t exponent_t;
 
